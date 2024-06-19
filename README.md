@@ -15,7 +15,7 @@ Pull request can take them time because i need to manully add the dns records
 
 ## Domains avalable 
 
-Domain | Active 
+Domain | Active |
 
 
 ## Example file
