@@ -16,6 +16,21 @@ Pull request can take them time because i need to manully add the dns records
 ## Domains avalable 
 
 | Domain | Active |
+| --- | --- |
+| disc.us.kg | :green_circle: |
+| hyghj.eu.org | :green_circle: |
+| irs.us.kg | :green_circle: |
+| is-a-person.us.kg | :green_circle: |
+| is-a-trans.us.kg | :green_circle: |
+| is-very-gay.us.kg | :green_circle: |
+| lmb.us.kg | :green_circle: |
+| loves-to-kill.us.kg | :green_circle: |
+| not-a-virus.us.kg | :green_circle: |
+| pissbird.us.kg | :green_circle: |
+| play451isthebest.eu.org | :green_circle: |
+| play451isthebest1.eu.org | :green_circle: |
+| play-mc.us.kg | :green_circle: |
+| schools.us.kg | :green_circle: |
 
 
 ## Example file
