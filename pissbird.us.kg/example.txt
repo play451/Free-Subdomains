@@ -1,0 +1,11 @@
+play451@gmail.com
+I agree to the TOS
+
+A - 1.1.1.1
+A - 2.2.2.2
+AAAA - idfk
+AAAA - idfka
+SRV - minecraft 10283
+TXT - google.key.idk
+NS - hmmm
+MX - hmmm
