@@ -29,9 +29,10 @@ Pull request can take them time because i need to manully add the dns records
 | loves-to-kill.us.kg | :green_circle: |
 | not-a-virus.us.kg | :green_circle: |
 | pissbird.us.kg | :green_circle: |
+| play-mc.us.kg | :green_circle: |
 | play451isthebest.eu.org | :green_circle: |
 | play451isthebest1.eu.org | :green_circle: |
-| play-mc.us.kg | :green_circle: |
+| proxie.us.kg | :green_circle: |
 | schools.us.kg | :green_circle: |
 
 
