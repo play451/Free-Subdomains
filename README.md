@@ -1,7 +1,9 @@
 # Free-Subdomains
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplay451%2FFree-Subdomains&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Veiws&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Free subdomains for anything you want without any restrictions. We do have a terms of service so please look in that
+I add new domains every few weeks.
+
+Free subdomains for anything you want without any restrictions. We do have a terms of service so please look in that.
 
 ## How to get one
 
