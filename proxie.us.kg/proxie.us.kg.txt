@@ -1,0 +1,10 @@
+samael@mailfence.com
+I agree to the TOS
+
+A - 108.162.195.165
+A - 162.159.44.165
+AAAA - 2a06:98c1:50::ac40:23a5
+AAAA - 2803:f800:50::6ca2:c3a5
+TXT - v=spf1 -all
+NS - vita.ns.cloudflare.com
+NS - lennon.ns.cloudflare.com
